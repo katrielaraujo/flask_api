@@ -16,7 +16,7 @@ Este projeto é uma API RESTful desenvolvida em Python com o framework Flask par
 1. **Clone o repositório:**
 
    ```bash
-   git clone [https://github.com/seu-usuario/flask-sales-app.git](https://github.com/katrielaraujo/flask_api.git)
+   git clone https://github.com/katrielaraujo/flask_api.git
    ```
 
 2. **Crie um ambiente virtual:**
