@@ -1,6 +1,7 @@
 # Ambiente virtual
 venv/
 __pycache__/
+.idea
 
 # Arquivos de banco de dados
 *.sqlite3
