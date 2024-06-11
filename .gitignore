@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+__pycache__/
+
+# Arquivos de banco de dados
+*.sqlite3
+*.db
+
+# Arquivos de migração
+migrations/
+
+# Configurações de ambiente local
+.env
+
+# Arquivos de log
+*.log
+
+# Pytest cache
+.cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
